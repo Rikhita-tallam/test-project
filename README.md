@@ -1,1 +1,1 @@
-# test-project
+# test-project with required files.
